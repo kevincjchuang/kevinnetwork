@@ -1,0 +1,13 @@
+# file name .gitignore
+
+# ignore secret yang file
+secret.yaml
+
+# ignore config/database yang file
+config/database.yaml
+
+# ignore all folder db/*sqlite3 file
+/db/*.sqlite3
+
+# ignore all .tmp file
+*.tmp
