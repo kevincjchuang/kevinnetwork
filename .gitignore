@@ -2,11 +2,9 @@
 
 # ignore secret yang file
 secret.yaml
-secret.yml
 
 # ignore config/database yang file
 config/database.yaml
-config/database.yml
 
 # ignore all folder db/*sqlite3 file
 /db/*.sqlite3
